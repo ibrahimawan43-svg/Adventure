@@ -1,0 +1,6 @@
+{
+  "name": "Chronicle: Infinite AI Adventure Engine",
+  "description": "An infinite choose-your-own-adventure engine with real-time story branching, consistent visual illustrations in 1K/2K/4K, automated dynamic inventory and quest tracking, and interactive AI companions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
